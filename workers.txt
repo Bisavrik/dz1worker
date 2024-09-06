@@ -1,0 +1,5 @@
+Surname: yoi
+Name: wu
+Number: 0991234567
+Salary: 30000.00
+-----------------
